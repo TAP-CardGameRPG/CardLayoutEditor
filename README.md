@@ -1,2 +1,2 @@
-# CardLayoutEditor
-A web-based editor utility for creating card layout configuration files.
+# TAP Webserver
+A webserver for deploying card utility tools and providing a REST API for accessing card images.

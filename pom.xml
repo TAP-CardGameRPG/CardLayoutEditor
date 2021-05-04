@@ -4,16 +4,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>net.whg.tap</groupId>
-  <artifactId>cardlayouteditor</artifactId>
+  <artifactId>webserver</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>CardLayoutEditor</name>
-  <url>https://github.com/TAP-CardGameRPG/CardLayoutEditor</url>
+  <name>TAP-Webserver</name>
+  <url>https://github.com/TAP-CardGameRPG/Webserver</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>14</maven.compiler.source>
+    <maven.compiler.target>14</maven.compiler.target>
   </properties>
 
   <dependencies>
